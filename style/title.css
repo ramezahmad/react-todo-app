@@ -1,0 +1,20 @@
+.title {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5rem;
+  
+}
+.title h1 {
+  font-size: 2.7rem;
+  letter-spacing: 15px;
+  color: var(--darkTheme-Light-Grayish-Blue-hover);
+}
+.title button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.title button img {
+  height: 35px;
+  width: 35px;
+}
